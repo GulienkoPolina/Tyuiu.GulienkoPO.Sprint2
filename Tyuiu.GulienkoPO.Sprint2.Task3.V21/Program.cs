@@ -14,7 +14,7 @@ namespace Tyuiu.GulienkoPO.Sprint2.Task3.V21
             Console.WriteLine("* Тема: Операции сравнения                                                 *");
             Console.WriteLine("* Задание #3                                                               *");
             Console.WriteLine("* Вариант #21                                                              *");
-            Console.WriteLine("* Выполнил: Гулиенко П. О. | ИСТНб-24-1                                       *");
+            Console.WriteLine("* Выполнил: Гулиенко П. О. | ИСТНб-24-1                                    *");
             Console.WriteLine("****************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                 *");
             Console.WriteLine("* Написать программу, которая вычисляет требуемое значение функции Y       *");
